@@ -1,0 +1,9 @@
+
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>eXist-db Documentation</description>
+    <author>me</author>
+    <website>https://www.github.com/exist-db/documentation</website>
+    <status>stable</status>
+    <type>application</type>
+    <target>hello-app</target>
+</meta>
